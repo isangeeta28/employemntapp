@@ -3,20 +3,20 @@
     "platforms": {
       "android": {
         "default": {
-          "projectId": "employmentapp-7ce90",
-          "appId": "1:2407787256:android:aa539457e710065b74e90d",
+          "projectId": "employmentapp-3c2c2",
+          "appId": "1:690934784706:android:d8833d66d5343c246f915b",
           "fileOutput": "android/app/google-services.json"
         }
       },
       "dart": {
         "lib/firebase_options.dart": {
-          "projectId": "employmentapp-7ce90",
+          "projectId": "employmentapp-3c2c2",
           "configurations": {
-            "android": "1:2407787256:android:aa539457e710065b74e90d",
-            "ios": "1:2407787256:ios:3c056d5c0ed7ae4874e90d",
-            "macos": "1:2407787256:ios:3c056d5c0ed7ae4874e90d",
-            "web": "1:2407787256:web:9d43e2186053ec1474e90d",
-            "windows": "1:2407787256:web:3462079f49742e2f74e90d"
+            "android": "1:690934784706:android:d8833d66d5343c246f915b",
+            "ios": "1:690934784706:ios:8e8c1c275f7afcf66f915b",
+            "macos": "1:690934784706:ios:8e8c1c275f7afcf66f915b",
+            "web": "1:690934784706:web:9cd723b32e7780536f915b",
+            "windows": "1:690934784706:web:76f656dbe657ea9b6f915b"
           }
         }
       }
@@ -24,29 +24,8 @@
   },
   "emulators": {
     "dataconnect": {
-      "dataDir": "dataconnect/.dataconnect/pgliteData",
-      "port": 9399
-    },
-    "apphosting": {
-      "port": 5002,
-      "rootDirectory": "./"
-    },
-    "functions": {
-      "port": 5001
-    },
-    "firestore": {
-      "port": 8080
-    },
-    "database": {
-      "port": 9000
-    },
-    "storage": {
-      "port": 9199
-    },
-    "ui": {
-      "enabled": true
-    },
-    "singleProjectMode": true
+      "dataDir": "dataconnect/.dataconnect/pgliteData"
+    }
   },
   "dataconnect": {
     "source": "dataconnect"
@@ -54,9 +33,6 @@
   "firestore": {
     "rules": "firestore.rules",
     "indexes": "firestore.indexes.json"
-  },
-  "storage": {
-    "rules": "storage.rules"
   },
   "hosting": {
     "public": "build/web",

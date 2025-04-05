@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "2407787256",
-    "project_id": "employmentapp-7ce90",
-    "storage_bucket": "employmentapp-7ce90.firebasestorage.app"
+    "project_number": "690934784706",
+    "project_id": "employmentapp-3c2c2",
+    "storage_bucket": "employmentapp-3c2c2.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:2407787256:android:aa539457e710065b74e90d",
+        "mobilesdk_app_id": "1:690934784706:android:d8833d66d5343c246f915b",
         "android_client_info": {
           "package_name": "com.example.employmentapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDIc_pVqF5h_S2XrpXnG7ygGkhhk2IjNKo"
+          "current_key": "AIzaSyBQTUbD45LsSX-D9y5rLE_zF7T7jOEp3bQ"
         }
       ],
       "services": {
